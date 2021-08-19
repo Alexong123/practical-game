@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &4872432869475382992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 280017611812788404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ef83097c4dea52418aac3246a7fc69a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waypoint: []
+  animator: {fileID: 0}
+  moveSpeed: 1
+--- !u!1001 &4346577676347248206
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.280458
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.22046852
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.460856
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 440987081742399097, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4589440522437154554, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+      propertyPath: m_Name
+      value: ZombieFollowPathTriangle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+--- !u!1 &280017611812788404 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4589440522437154554, guid: 28f75b91c4bf1ac4093c4ad2f6428a67, type: 3}
+  m_PrefabInstance: {fileID: 4346577676347248206}
+  m_PrefabAsset: {fileID: 0}

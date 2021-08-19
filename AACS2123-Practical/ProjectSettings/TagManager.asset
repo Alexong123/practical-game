@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gems
+  - Gems2
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trees
+    uniqueID: 3505026297
+    locked: 0
+  - name: Home
+    uniqueID: 2796862213
+    locked: 0
+  - name: Items
+    uniqueID: 4027753327
+    locked: 0
+  - name: Player
+    uniqueID: 2473185115
+    locked: 0
+  - name: UI
+    uniqueID: 2736433415
+    locked: 0
+  - name: Zombies
+    uniqueID: 3736198541
+    locked: 0
